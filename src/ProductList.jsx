@@ -1,7 +1,4 @@
-import React, { useState } from "react";
 function ProductList(props) {
-  const [products, setProducts] = useState([]);
-
   return (
     <>
       <div className="card">
